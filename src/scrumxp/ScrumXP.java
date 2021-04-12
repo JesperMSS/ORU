@@ -32,7 +32,7 @@ public class ScrumXP {
         } catch (InfException ex){
             Logger.getLogger(ScrumXP.class.getName()).log(Level.SEVERE , null, ex);
         }
-        
+        System.out.println("Hej");
     new LoginForm().setVisible(true); 
         
     }
